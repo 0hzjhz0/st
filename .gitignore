@@ -1,3 +1,5 @@
 st
 *.o
 *.rej
+*.orig
+*.diff
